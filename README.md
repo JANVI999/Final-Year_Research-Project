@@ -16,10 +16,16 @@ The project combines principles of remote sensing, deep learning, and environmen
 Our system accurately detects and monitors the presence of HABs in water bodies. This includes a trained UNET model capable of analyzing satellite images, predicting chlorophyll-a concentrations and SST levels, and highlighting areas of potential HABs. The project also provides visualization tools for better understanding and interpretation of the results, facilitating informed decision-making regarding water resource management and environmental protection. Our scalable approach contributes to comprehensive solutions for  preserving marine ecosystems, public health, and water-dependent industries worldwide.
 
 5. Results:
+
+   
 ![chlor_a results](https://github.com/JANVI999/Final-Year_Research-Project/assets/83579839/55ebf0e7-25be-4b64-b01d-6d2800a96e24)
+
+
 ![sst_results](https://github.com/JANVI999/Final-Year_Research-Project/assets/83579839/1442707b-fbc8-4a2c-b3ba-702807e70e35)
+
+
 ![system demo](https://github.com/JANVI999/Final-Year_Research-Project/assets/83579839/a11744e0-5750-4469-ba18-31479e9968d0)
 
-6. Advantages to Society / Community: (done)
+7. Advantages to Society / Community: (done)
 Our project has significant advantages for society and the community. By improving water quality monitoring and HAB detection, we contribute to the preservation of marine ecosystems, safeguard public health, and support water-dependent industries such as fisheries and tourism. The timely detection of HABs also allows for prompt mitigation measures, reducing the impact of water contamination events and ensuring sustainable water resources for future generations. The remote sensing approach equips decision-makers with valuable insights. This information supports the implementation of adaptive management strategies, ensuring that responses to environmental challenges, particularly HAB events, are well-informed and tailored to specific conditions. This approach ensures societal well-being and the long-term sustainability of communities and natural resources. Overall, our project benefits both local communities and global efforts towards environmental conservation. 
 
