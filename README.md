@@ -3,6 +3,7 @@ Harmful Algal Blooms Detection & Monitoring for Water Quality Assessment Using R
 ![Hab](https://github.com/JANVI999/Final-Year_Research-Project/assets/83579839/3ca62c19-b255-42d0-824a-a1ecfc8fd623)
 
 Sample image of SST visible in seadas software:- 
+
 ![AQUA_MODIS_20171017T092011_L2_SST_sst](https://github.com/JANVI999/Final-Year_Research-Project/assets/83579839/3ee17303-f037-4f6a-ad36-a01a781a5d0c)
 
 1. Innovative Concept / Idea: (done)
