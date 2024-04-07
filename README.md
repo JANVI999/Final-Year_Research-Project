@@ -26,6 +26,6 @@ Our system accurately detects and monitors the presence of HABs in water bodies.
 
 ![system demo](https://github.com/JANVI999/Final-Year_Research-Project/assets/83579839/a11744e0-5750-4469-ba18-31479e9968d0)
 
-7. Advantages to Society / Community: 
+6. Advantages to Society / Community: 
 Our project has significant advantages for society and the community. By improving water quality monitoring and HAB detection, we contribute to the preservation of marine ecosystems, safeguard public health, and support water-dependent industries such as fisheries and tourism. The timely detection of HABs also allows for prompt mitigation measures, reducing the impact of water contamination events and ensuring sustainable water resources for future generations. The remote sensing approach equips decision-makers with valuable insights. This information supports the implementation of adaptive management strategies, ensuring that responses to environmental challenges, particularly HAB events, are well-informed and tailored to specific conditions. This approach ensures societal well-being and the long-term sustainability of communities and natural resources. Overall, our project benefits both local communities and global efforts towards environmental conservation. 
 
