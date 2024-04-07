@@ -1,4 +1,4 @@
-Harmful Algal Blooms Detection & Monitoring for Water Quality Assessment Using Remote Sensing 
+# Harmful Algal Blooms Detection & Monitoring for Water Quality Assessment Using Remote Sensing 
 
 ![Hab](https://github.com/JANVI999/Final-Year_Research-Project/assets/83579839/3ca62c19-b255-42d0-824a-a1ecfc8fd623)
 
