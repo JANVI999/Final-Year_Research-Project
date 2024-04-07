@@ -2,10 +2,6 @@ Harmful Algal Blooms Detection & Monitoring for Water Quality Assessment Using R
 
 ![Hab](https://github.com/JANVI999/Final-Year_Research-Project/assets/83579839/3ca62c19-b255-42d0-824a-a1ecfc8fd623)
 
-Sample image of SST visible in seadas software:- 
-
-![AQUA_MODIS_20171017T092011_L2_SST_sst](https://github.com/JANVI999/Final-Year_Research-Project/assets/83579839/3ee17303-f037-4f6a-ad36-a01a781a5d0c)
-
 1. Innovative Concept / Idea: (done)
 The innovative concept behind our project lies in utilizing real time remote sensing data from the AQUA-MODIS satellite to monitor water quality by detecting Harmful Algal Blooms. We have developed a system that collects real-time satellite data. We have taken into consideration the following parameters: chlorophyll-a concentration and Sea Surface Temperature. By leveraging a deep learning UNet architecture, we are able to accurately segment the areas with high chlorophyll-a and Sea Surface Temperature (SST) concentrations. This approach provides a comprehensive and efficient method for assessing water quality and detecting Harmful Algal Blooms (HABs) in real-time, contributing significantly to environmental monitoring and ecosystem health.
 
